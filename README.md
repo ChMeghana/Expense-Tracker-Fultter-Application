@@ -1,6 +1,16 @@
 # expense_tracker
 
 A new Flutter project.
+Tracks Expenses
+Section 5
+Covers: //Project 3Modals
+//SnackBar, Modal, TextField, Drop Down, date picker, alert dialog, context which shows relation between widgets
+//Text Editing controller & disposing it
+//Icon button & App Bar
+//Theming for Dark & light mode
+
+//Pointers & functions passing
+//Listview & builder method
 
 ## Getting Started
 
